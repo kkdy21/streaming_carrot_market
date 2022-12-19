@@ -25,3 +25,23 @@
 각진 기본 컨트롤을 오버라이딩을 통해 둥글게 만들거나 Graphics클래스를 활용하여 원하는 도형을 만들어 놓을수 있다는점,   
 사용자정의 컨트롤로 내가 원하는 컨트롤들을 조합하여 새로운 컨트롤을 만들수 있다는점에서 놀라웠다   
 UI쪽을 공부하니 코드를 만들때 컨트롤과 프로퍼티를 통해 코드를 만들기에 한결 수월해졌고 앞 으로도 많이 활용해야 겠다는 생각이 들었다.   
+
+# 구현 사진
+<img width="669" alt="image" src="https://user-images.githubusercontent.com/86215246/208376187-83fabcc6-91cb-4f08-afde-106780dcac86.png">
+<img width="733" alt="image" src="https://user-images.githubusercontent.com/86215246/208376294-7318151f-cb84-42c7-aa7f-4c8e12632361.png">
+<img width="867" alt="image" src="https://user-images.githubusercontent.com/86215246/208376224-9dddd368-247b-428c-a82c-a25af68be053.png">
+<img width="964" alt="image" src="https://user-images.githubusercontent.com/86215246/208376255-87387379-c1a2-44e8-95fa-a19eb9900570.png">
+<img width="733" alt="image" src="https://user-images.githubusercontent.com/86215246/208376294-7318151f-cb84-42c7-aa7f-4c8e12632361.png">
+<img width="714" alt="image" src="https://user-images.githubusercontent.com/86215246/208376329-d45d0641-8508-4a5a-8a25-830d6405cc15.png">
+<img width="794" alt="image" src="https://user-images.githubusercontent.com/86215246/208376389-59e680a0-c3b9-4ead-8492-074d2369d9b7.png">
+<img width="835" alt="image" src="https://user-images.githubusercontent.com/86215246/208376435-cc429752-91bd-4a26-a74d-3670e6c9852b.png">
+<img width="966" alt="image" src="https://user-images.githubusercontent.com/86215246/208376474-4a532875-6772-469c-a92e-8698095af897.png">
+<img width="961" alt="image" src="https://user-images.githubusercontent.com/86215246/208376509-2d4c03ea-8525-4b0e-ab16-b8fb9d5ad1b7.png">
+<img width="785" alt="image" src="https://user-images.githubusercontent.com/86215246/208376537-4d34dc6e-67d0-4432-887d-2bd0e4b71ad7.png">
+<img width="763" alt="image" src="https://user-images.githubusercontent.com/86215246/208376572-128fe86f-384e-4109-b202-ce0d721822d8.png">
+<img width="966" alt="image" src="https://user-images.githubusercontent.com/86215246/208376608-9e135496-3ecf-4e32-92b6-2e576d1aa3e6.png">
+<img width="966" alt="image" src="https://user-images.githubusercontent.com/86215246/208376634-98ff51db-6691-461d-81ff-d403049d2479.png">
+<img width="966" alt="image" src="https://user-images.githubusercontent.com/86215246/208376675-7d2d7748-1f5e-4dd4-a3f2-b8ed6009f1e4.png">
+<img width="966" alt="image" src="https://user-images.githubusercontent.com/86215246/208376703-a08ea076-5260-4a84-8ada-0a67df5ba3e3.png">
+
+
