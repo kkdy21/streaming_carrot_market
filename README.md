@@ -28,7 +28,6 @@ UI쪽을 공부하니 코드를 만들때 컨트롤과 프로퍼티를 통해 �
 
 # 구현 사진
 <img width="669" alt="image" src="https://user-images.githubusercontent.com/86215246/208376187-83fabcc6-91cb-4f08-afde-106780dcac86.png">
-<img width="733" alt="image" src="https://user-images.githubusercontent.com/86215246/208376294-7318151f-cb84-42c7-aa7f-4c8e12632361.png">
 <img width="867" alt="image" src="https://user-images.githubusercontent.com/86215246/208376224-9dddd368-247b-428c-a82c-a25af68be053.png">
 <img width="964" alt="image" src="https://user-images.githubusercontent.com/86215246/208376255-87387379-c1a2-44e8-95fa-a19eb9900570.png">
 <img width="733" alt="image" src="https://user-images.githubusercontent.com/86215246/208376294-7318151f-cb84-42c7-aa7f-4c8e12632361.png">
