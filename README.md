@@ -5,7 +5,9 @@
 # 개발인원
 고대연, 김진호, 김영대, 최진경
 # 개발환경
+### client
 - Visual Studio 2019 / C# Winform
+### server
 - Linux Ubuntu 20.04 / C++ 9.3.0 / Visual Studio Code 1.57.1 / MySQL
 # 프로그램 소개
 - 실시간 스트리밍을 활용한 중고거래 플랫폼 프로그래밍
